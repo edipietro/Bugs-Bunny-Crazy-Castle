@@ -2,8 +2,8 @@ import wollok.game.*
 
 program bugsBunny {
 	game.title("Bugs Bunny")
-	game.height(10)
+	game.height(15)
 	game.width(20)
-	game.ground("fondo.png")
+	game.ground("adrillo.jpg")
 	game.start()
 }
